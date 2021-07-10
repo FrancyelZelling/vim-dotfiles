@@ -11,6 +11,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'voldikss/vim-floaterm'
 Plug 'jiangmiao/auto-pairs'
 Plug 'mattn/emmet-vim'
+Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate' }
 
 " HTMl
 Plug 'hail2u/vim-css3-syntax'
